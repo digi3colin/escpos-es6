@@ -1,0 +1,25 @@
+{
+  "name": "esc-pos",
+  "version": "0.0.1",
+  "description": "Javascript (ES6) port of ESC/POS(R) 2.70",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digi3colin/escpos-es6.git"
+  },
+  "keywords": [
+    "POS",
+    "thermal",
+    "printer",
+    "ESC"
+  ],
+  "author": "Colin Leung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digi3colin/escpos-es6/issues"
+  },
+  "homepage": "https://github.com/digi3colin/escpos-es6#readme"
+}
